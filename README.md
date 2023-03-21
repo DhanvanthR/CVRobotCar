@@ -8,3 +8,4 @@ The Car:
 ![IMG_1617](https://user-images.githubusercontent.com/94002108/226496175-fece9481-046e-46dc-9032-79d9d392e19d.jpeg)
 (Taken with battery and power assembly partially disassembled)
 
+Batteries to give power to the four DC motors, power bank to power the Raspberry Pi and run the code. 
